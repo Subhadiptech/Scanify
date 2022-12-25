@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Scanify</string>
+
+    <!--    registration strings-->
+    <string name="welcome">Welcome to</string>
+    <string name="name_label">What\'s Your Name ?</string>
+    <string name="next_text">Next</string>
 </resources>
